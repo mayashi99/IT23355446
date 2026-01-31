@@ -1,12 +1,13 @@
-### IT23355446 – Playwright Excel Based Test Automation
-## Project Overview
+# IT23355446 – Playwright Excel Based Test Automation
+### Project Overview
 
 This project is a test automation framework built using Playwright and Node.js.
 It executes automated test cases using data stored in an Excel file.
 
 The automation is mainly designed to test the Swift Translator Web Application.
+(https://www.swifttranslator.com/).
 
-## Technologies Used
+### Technologies Used
 
 Playwright
 
@@ -18,7 +19,7 @@ Excel (Test Data Source)
 
 GitHub (Version Control)
 
-## Project Structure
+### Project Structure
 IT23355446/
 │
 ├── tests/                 # Playwright test files
@@ -28,7 +29,16 @@ IT23355446/
 ├── package.json           # Project dependencies
 └── README.md              # Project documentation
 
-## Test Data
+## Test Case Naming Convention
+Positive Functional Tests: Pos_Fun_XXXX
+
+Negative Functional Tests: Neg_Fun_XXXX
+
+Positive UI Tests: Pos_UI_XXXX
+
+Negative UI Tests: Neg_UI_XXXX
+
+### Test Data
 
 Test data is stored in Excel format.
 
@@ -47,7 +57,7 @@ Expected Result
 
 Test Type (UI / Functional / Negative / Positive)
 
- ## Installation & Setup
+ ### Installation & Setup
    Clone Repository
 git clone https://github.com/mayashi99/IT23355446.git
 
@@ -69,7 +79,7 @@ npx playwright test
 ###  Running Test
 npx playwright test -g "Pos_Fun_0001" --headed
 
-## Run specific test file:
+### Run specific test file:
 
 npx playwright test testfile.spec.js
 
@@ -87,7 +97,7 @@ Verify translation result
 
 Log test result
 
-## Reporting
+### Reporting
 
 After execution, Playwright generates:
 
@@ -97,6 +107,6 @@ Test Logs
 
 Screenshots (if configured)
 
-## View report:
+### View report:
 
 npx playwright show-report
