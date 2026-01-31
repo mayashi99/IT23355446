@@ -1,3 +1,5 @@
+Playwright Logo
+🎓 IT23355446 - ITPM Assignment 01: Playwright Testing Project
 # IT23355446 – Playwright Excel Based Test Automation
 ### Project Overview
 
