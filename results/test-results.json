@@ -1,0 +1,13 @@
+{
+  "executedAt": "2026-01-31T06:55:13.861Z",
+  "results": [
+    {
+      "tcId": "Pos_UI_0001",
+      "name": "Verify UI remains responsive for short Singlish input- Sinhala output should be generated automatically without clicking any convert button.",
+      "input": "mata kaeema ekak genath dhenna puluvandha?",
+      "expected": "මට කෑම එකක් ගෙනත් දෙන්න පුලුවන්ද?",
+      "actual": "මට කෑම එකක් ගෙනත් දෙන්න පුලුවන්ද?",
+      "status": "Pass"
+    }
+  ]
+}
