@@ -118,33 +118,26 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - generic [ref=e131]:
-            - textbox "Input Your Singlish Text Here." [active] [ref=e132]: In today’s daily life, magea routine eka smooth maintain karanna thiyenna oonea bro. Time management hariyata naethi nam, apita stress and chaos ekak experience venavaa. For example, morning wake-up schedule maintain karoth, exercise vagea healthy habit start karanna oonea now, lazy start ekak hariyata work venne naenea. Meal planning and healthy diet hariyata important — fruits, vegetables, protein vagea balanced food ekak daily intake karanna oonaa, ekak skip karoth energy low venavaa. Honestly, hydration thamaa key habit ekak. Water intake daily proper keep karoth, body and mind sharp thiyaganna puluvan. Meditation or short mindfulness practice thama gaining serious attention; just 5–10 minutes per day, mental clarity fast & stress reduce karanna use venavaa. Ignore karoth, day plan valata struggle venavaa, specially work or school environment valata. Planning and prioritization hodhatama understand karoth, daily to-do list, reminders, and deadlines thamaa key. Even if solo living venoth vath, proper routine follow karoth life structure karanna easy venavaa. Household chores thamaa major part ekak — cleaning, laundry, cooking proper schedule maintain karanavaa, otherwise mess and chaos grow venavaa. Social skills thama equally important bro. Communication, relationships maintain karanna, friends & family time spend karanna, emotional balance long term save karanavaa. Budgeting, savings, and tracking daily expenses vagea personal finance tools deep understanding ekak oonaa, careless spending avoid karanna epaa. Finally, learning never stops. New recipes try karala, online courses, hobbies follow karala mind sharp thiyaganna puluvan. Honestly, oyagea habits + proper routine + learning habit combine karoth, daily life eka smooth and productive venavaa bro. Always try new things, explore hobbies, exercise, and stay
-            - list [ref=e134]:
-              - listitem [ref=e135] [cursor=pointer]: ස්ටයිල්
-              - listitem [ref=e136] [cursor=pointer]: ස්ටයිරැක්ස්
-              - listitem [ref=e137] [cursor=pointer]: ස්ටය්
-              - listitem [ref=e138] [cursor=pointer]: ස්ඨය්
-          - generic [ref=e139]:
-            - button "Open File" [ref=e140] [cursor=pointer]:
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: In today’s daily life, magea routine eka smooth maintain karanna thiyenna oonea bro. Time management hariyata naethi nam, apita stress and chaos ekak experience venavaa. For example, morning wake-up schedule maintain karoth, exercise vagea healthy habit start karanna oonea now, lazy start ekak hariyata work venne naenea. Meal planning and healthy diet hariyata important — fruits, vegetables, protein vagea balanced food ekak daily intake karanna oonaa, ekak skip karoth energy low venavaa. Honestly, hydration thamaa key habit ekak. Water intake daily proper keep karoth, body and mind sharp thiyaganna puluvan. Meditation or short mindfulness practice thama gaining serious attention; just 5–10 minutes per day, mental clarity fast & stress reduce karanna use venavaa. Ignore karoth, day plan valata struggle venavaa, specially work or school environment valata. Planning and prioritization hodhatama understand karoth, daily to-do list, reminders, and deadlines thamaa key. Even if solo living venoth vath, proper routine follow karoth life structure karanna easy venavaa. Household chores thamaa major part ekak — cleaning, laundry, cooking proper schedule maintain karanavaa, otherwise mess and chaos grow venavaa. Social skills thama equally important bro. Communication, relationships maintain karanna, friends & family time spend karanna, emotional balance long term save karanavaa. Budgeting, savings, and tracking daily expenses vagea personal finance tools deep understanding ekak oonaa, careless spending avoid karanna epaa. Finally, learning never stops. New recipes try karala, online courses, hobbies follow karala mind sharp thiyaganna puluvan. Honestly, oyagea habits + proper routine + learning habit combine karoth, daily life eka smooth and productive venavaa bro. Always try new things, explore hobbies, exercise, and stay
+          - generic [ref=e133]:
+            - button "Open File" [ref=e134] [cursor=pointer]:
+              - img [ref=e135]
+            - button "Copy" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+            - button "Cut" [ref=e140] [cursor=pointer]:
               - img [ref=e141]
-            - button "Copy" [ref=e143] [cursor=pointer]:
+            - button "Paste" [ref=e143] [cursor=pointer]:
               - img [ref=e144]
-            - button "Cut" [ref=e146] [cursor=pointer]:
+            - button "Clear" [ref=e146] [cursor=pointer]:
               - img [ref=e147]
-            - button "Paste" [ref=e149] [cursor=pointer]:
-              - img [ref=e150]
-            - button "Clear" [ref=e152] [cursor=pointer]:
-              - img [ref=e153]
-        - button "Swap Languages" [ref=e156] [cursor=pointer]:
-          - img [ref=e157]
-        - generic [ref=e159]:
-          - generic [ref=e160]: Sinhala
-          - generic [ref=e161]: ඉන් today’ස් daily life, මගේ routine එක smooth maintain කරන්න තියෙන්න ඕනේ bro. Time management හරියට නැති නම්, අපිට stress and chaos එකක් experience වෙනවා. For example, morning wake-up schedule maintain කරොත්, exercise වගේ healthy habit start කරන්න ඕනේ now, lazy start එකක් හරියට work වෙන්නෙ නැනේ. Meal planning and healthy diet හරියට important — fruits, vegetables, protein වගේ balanced food එකක් daily intake කරන්න ඕනා, එකක් ස්කිප් කරොත් energy low වෙනවා. Honestly, hydration තමා key habit එකක්. Water intake daily proper keep කරොත්, body and mind sharp තියගන්න පුලුවන්. Meditation or short mindfulness practice තම gaining serious attention; just 5–10 minutes per day, mental clarity fast & stress reduce කරන්න use වෙනවා. Ignore කරොත්, day plan වලට struggle වෙනවා, specially work or school environment වලට. Planning and prioritization හොදටම understand කරොත්, daily to-ඩො list, reminders, and deadlines තමා key. Even if solo living වෙනොත් වත්, proper routine follow කරොත් life structure කරන්න easy වෙනවා. Household chores තමා major part එකක් — cleaning, laundry, cooking proper schedule maintain කරනවා, otherwise mess and chaos grow වෙනවා. Social skills තම equally important bro. Communication, relationships maintain කරන්න, friends & family time spend කරන්න, emotional balance long term save කරනවා. Budgeting, savings, and tracking daily expenses වගේ personal finance tools deep understanding එකක් ඕනා, careless spending avoid කරන්න එපා. Finally, learning never stops. New recipes try කරල, online courses, hobbies follow කරල mind sharp තියගන්න පුලුවන්. Honestly, ඔයගේ habits + proper routine + learning habit combine කරොත්, daily life එක smooth and productive වෙනවා bro. Always try new things, explore hobbies, exercise, and stay
-          - generic [ref=e162]:
-            - button "Copy" [ref=e163] [cursor=pointer]:
-              - img [ref=e164]
-            - button "Clear" [ref=e166] [cursor=pointer]:
-              - img [ref=e167]
-      - button "Clear" [ref=e170] [cursor=pointer]: 🗑️ Clear
+        - button "Swap Languages" [ref=e150] [cursor=pointer]:
+          - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Sinhala
+          - generic [ref=e156]:
+            - button "Copy" [ref=e157] [cursor=pointer]:
+              - img [ref=e158]
+            - button "Clear" [ref=e160] [cursor=pointer]:
+              - img [ref=e161]
+      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
 ```

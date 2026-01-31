@@ -118,34 +118,26 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - generic [ref=e131]:
-            - textbox "Input Your Singlish Text Here." [active] [ref=e132]: nuwara eliyee mee dhavasvala mal thuhina vaetenavaa.
-            - list [ref=e134]:
-              - listitem [ref=e135] [cursor=pointer]: වැටෙනවා
-              - listitem [ref=e136] [cursor=pointer]: වැටෙණවා.
-              - listitem [ref=e137] [cursor=pointer]: වැටෙනවා.
-              - listitem [ref=e138] [cursor=pointer]: වැඨෙණවා.
-              - listitem [ref=e139] [cursor=pointer]: වැඨෙනවා.
-          - generic [ref=e140]:
-            - button "Open File" [ref=e141] [cursor=pointer]:
-              - img [ref=e142]
-            - button "Copy" [ref=e144] [cursor=pointer]:
-              - img [ref=e145]
-            - button "Cut" [ref=e147] [cursor=pointer]:
-              - img [ref=e148]
-            - button "Paste" [ref=e150] [cursor=pointer]:
-              - img [ref=e151]
-            - button "Clear" [ref=e153] [cursor=pointer]:
-              - img [ref=e154]
-        - button "Swap Languages" [ref=e157] [cursor=pointer]:
-          - img [ref=e158]
-        - generic [ref=e160]:
-          - generic [ref=e161]: Sinhala
-          - generic [ref=e162]: නුwඅර එලියේ මේ දවස්වල මල් තුහින වැටෙනවා.
-          - generic [ref=e163]:
-            - button "Copy" [ref=e164] [cursor=pointer]:
-              - img [ref=e165]
-            - button "Clear" [ref=e167] [cursor=pointer]:
-              - img [ref=e168]
-      - button "Clear" [ref=e171] [cursor=pointer]: 🗑️ Clear
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: nuwara eliyee mee dhavasvala mal thuhina vaetenavaa.
+          - generic [ref=e133]:
+            - button "Open File" [ref=e134] [cursor=pointer]:
+              - img [ref=e135]
+            - button "Copy" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+            - button "Cut" [ref=e140] [cursor=pointer]:
+              - img [ref=e141]
+            - button "Paste" [ref=e143] [cursor=pointer]:
+              - img [ref=e144]
+            - button "Clear" [ref=e146] [cursor=pointer]:
+              - img [ref=e147]
+        - button "Swap Languages" [ref=e150] [cursor=pointer]:
+          - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Sinhala
+          - generic [ref=e156]:
+            - button "Copy" [ref=e157] [cursor=pointer]:
+              - img [ref=e158]
+            - button "Clear" [ref=e160] [cursor=pointer]:
+              - img [ref=e161]
+      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
 ```

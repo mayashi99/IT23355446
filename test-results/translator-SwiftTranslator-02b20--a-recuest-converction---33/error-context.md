@@ -118,45 +118,27 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - generic [ref=e131]:
-            - textbox "Input Your Singlish Text Here." [active] [ref=e132]: heta gaNithaya panthiyata yanna venne naenea, loku ammala gedhara yanna oonea nee aparadheenea paadu vunoth ekata hariyanna havasa panthiyak thiyenavaa mama ekata yanavaa eka nisaa mama adha edhdhi havas venavaa kiyalaa ammaata kiyanna puluvandha???
-            - list [ref=e134]:
-              - listitem [ref=e135] [cursor=pointer]: පුලුවණ්ද???
-              - listitem [ref=e136] [cursor=pointer]: පුලුවණ්ධ???
-              - listitem [ref=e137] [cursor=pointer]: පුලුවන්ද???
-              - listitem [ref=e138] [cursor=pointer]: පුලුවන්ධ???
-              - listitem [ref=e139] [cursor=pointer]: පුළුවණ්ද???
-              - listitem [ref=e140] [cursor=pointer]: පුළුවණ්ධ???
-              - listitem [ref=e141] [cursor=pointer]: පුළුවන්ද???
-              - listitem [ref=e142] [cursor=pointer]: පුළුවන්ධ???
-              - listitem [ref=e143] [cursor=pointer]: ඵුලුවණ්ද???
-              - listitem [ref=e144] [cursor=pointer]: ඵුලුවණ්ධ???
-              - listitem [ref=e145] [cursor=pointer]: ඵුලුවන්ද???
-              - listitem [ref=e146] [cursor=pointer]: ඵුලුවන්ධ???
-              - listitem [ref=e147] [cursor=pointer]: ඵුළුවණ්ද???
-              - listitem [ref=e148] [cursor=pointer]: ඵුළුවණ්ධ???
-              - listitem [ref=e149] [cursor=pointer]: ඵුළුවන්ද???
-              - listitem [ref=e150] [cursor=pointer]: ඵුළුවන්ධ???
-          - generic [ref=e151]:
-            - button "Open File" [ref=e152] [cursor=pointer]:
-              - img [ref=e153]
-            - button "Copy" [ref=e155] [cursor=pointer]:
-              - img [ref=e156]
-            - button "Cut" [ref=e158] [cursor=pointer]:
-              - img [ref=e159]
-            - button "Paste" [ref=e161] [cursor=pointer]:
-              - img [ref=e162]
-            - button "Clear" [ref=e164] [cursor=pointer]:
-              - img [ref=e165]
-        - button "Swap Languages" [ref=e168] [cursor=pointer]:
-          - img [ref=e169]
-        - generic [ref=e171]:
-          - generic [ref=e172]: Sinhala
-          - generic [ref=e173]: හෙට ගණිතය පන්තියට යන්න වෙන්නෙ නැනේ, ලොකු අම්මල ගෙදර යන්න ඕනේ නේ අපරදේනේ පාඩු වුනොත් එකට හරියන්න හවස පන්තියක් තියෙනවා මම එකට යනවා එක නිසා මම අද එද්දි හවස් වෙනවා කියලා අම්මාට කියන්න පුලුවන්ද???
-          - generic [ref=e174]:
-            - button "Copy" [ref=e175] [cursor=pointer]:
-              - img [ref=e176]
-            - button "Clear" [ref=e178] [cursor=pointer]:
-              - img [ref=e179]
-      - button "Clear" [ref=e182] [cursor=pointer]: 🗑️ Clear
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: heta gaNithaya panthiyata yanna venne naenea, loku ammala gedhara yanna oonea nee aparadheenea paadu vunoth ekata hariyanna havasa panthiyak thiyenavaa mama ekata yanavaa eka nisaa mama adha edhdhi havas venavaa kiyalaa ammaata kiyanna puluvandha???
+          - generic [ref=e133]:
+            - button "Open File" [ref=e134] [cursor=pointer]:
+              - img [ref=e135]
+            - button "Copy" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+            - button "Cut" [ref=e140] [cursor=pointer]:
+              - img [ref=e141]
+            - button "Paste" [ref=e143] [cursor=pointer]:
+              - img [ref=e144]
+            - button "Clear" [ref=e146] [cursor=pointer]:
+              - img [ref=e147]
+        - button "Swap Languages" [ref=e150] [cursor=pointer]:
+          - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Sinhala
+          - generic [ref=e155]: හෙට ගණිතය පන්තියට යන්න වෙන්නෙ නැනේ, ලොකු අම්මල ගෙදර යන්න ඕනේ නේ අපරදේනේ පාඩු වුනොත් එකට හරියන්න හවස පන්තියක් තියෙනවා මම එකට යනවා එක නිසා මම අද එද්දි හවස් වෙනවා කියලා අම්මාට කියන්න පුලුවන්ද???
+          - generic [ref=e156]:
+            - button "Copy" [ref=e157] [cursor=pointer]:
+              - img [ref=e158]
+            - button "Clear" [ref=e160] [cursor=pointer]:
+              - img [ref=e161]
+      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
 ```
